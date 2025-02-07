@@ -77,6 +77,3 @@ The script starts with installing and importing necessary libraries, including T
 - **Gdown**: Downloading dataset from Google Drive.
 - **Matplotlib**: Visualization of results.
 
----
-This implementation is a practical approach to lipreading using deep learning, leveraging state-of-the-art architectures for speech recognition through visual inputs.
-
